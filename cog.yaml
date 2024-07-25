@@ -1,0 +1,6 @@
+build:
+  gpu: false
+  python_packages:
+    - numpy
+  python_version: "3.11"
+predict: predict.py:Predictor
